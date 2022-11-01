@@ -1,0 +1,16 @@
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.csproj.AssemblyReference.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.AssemblyInfoInputs.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.AssemblyInfo.cs
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.exe
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.deps.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.runtimeconfig.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.runtimeconfig.dev.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\ref\Bai6.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\bin\Debug\net5.0\Bai6.pdb
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\ref\Bai6.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.pdb
+C:\Users\LeTrungHieu\BaiTapC#\Bai6\obj\Debug\net5.0\Bai6.genruntimeconfig.cache
