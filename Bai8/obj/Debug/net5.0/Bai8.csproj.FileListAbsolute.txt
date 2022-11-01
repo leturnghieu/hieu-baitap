@@ -1,0 +1,16 @@
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.csproj.AssemblyReference.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.AssemblyInfoInputs.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.AssemblyInfo.cs
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.exe
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.deps.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.runtimeconfig.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.runtimeconfig.dev.json
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\ref\Bai8.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\bin\Debug\net5.0\Bai8.pdb
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\ref\Bai8.dll
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.pdb
+C:\Users\LeTrungHieu\BaiTapC#\Bai8\obj\Debug\net5.0\Bai8.genruntimeconfig.cache
