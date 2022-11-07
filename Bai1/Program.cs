@@ -10,7 +10,7 @@ namespace BaiTapC_
         }
         static void Main(string[] args)
         {
-            int val1, val2;
+            int val1,val2;
             int sum = 0;
             do
             {
@@ -24,4 +24,4 @@ namespace BaiTapC_
             Console.WriteLine(sum);
         }
     }
-}
+}   
