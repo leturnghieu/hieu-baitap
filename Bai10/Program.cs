@@ -19,7 +19,7 @@ namespace Bai10
         public static StringBuilder caesarCipher(string text, int k)
         {
             StringBuilder result = new StringBuilder();
-            for (int i=0; i<text.Length; i++)
+            for (int i = 0; i<text.Length; i++)
             {
                 if (char.IsUpper(text[i]))
                 {
