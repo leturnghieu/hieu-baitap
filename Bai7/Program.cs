@@ -18,17 +18,17 @@ namespace Bai7
     {
         public static void countApplesAndOranges(int s, int t, int a, int b, List<int> apples, List<int> oranges)
     {
-        int countApple=0,countOranges=0;
-        for(int i=0;i<apples.Count;i++)
+        int countApple = 0, countOranges = 0;
+        for(int i = 0;i < apples.Count; i++)
         {
-            if(((apples[i]+a)>=s)&&((apples[i]+a)<=t))
+            if(((apples[i] + a) >= s)&&((apples[i] + a) <= t))
             {
                 countApple++;
             }
         }
-        for(int i=0;i<oranges.Count;i++)
+        for(int i = 0; i < oranges.Count; i++)
         {
-            if(((oranges[i]+b)>=s)&&((oranges[i]+b)<=t))
+            if(((oranges[i] + b) >= s)&&((oranges[i] + b) <= t))
             {
                 countOranges++;
             }
