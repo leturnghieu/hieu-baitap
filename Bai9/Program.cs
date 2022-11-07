@@ -21,12 +21,12 @@ namespace Bai9
             int s = 0, max = 0;
             for(int i=0;i<candles.Count;i++)
             {
-                if(candles[i]>=max)
+                if(candles[i] >= max)
                 {
                     max = candles[i];
                 }
             }
-            for(int i=0;i<candles.Count;i++)
+            for(int i = 0; i < candles.Count; i++)
             {
                 if(candles[i] == max)
                 {
