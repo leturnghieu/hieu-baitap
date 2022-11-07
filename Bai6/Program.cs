@@ -7,7 +7,7 @@ namespace Bai6
     {
         public static void staircase(int n)
         {
-            for(int i=1; i<=n; i++)
+            for(int i=1; i <= n; i++)
             {
                 var spaces = new String(' ', n - i);
                 var hashes = new String('#', i);
