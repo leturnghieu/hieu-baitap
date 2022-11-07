@@ -6,11 +6,11 @@ namespace BaiTapC_
     {
         static int solveMeFirst(int a, int b)
         { 
-            return a+b;
+            return a + b;
         }
         static void Main(string[] args)
         {
-            int val1,val2;
+            int val1, val2;
             int sum = 0;
             do
             {
@@ -18,9 +18,9 @@ namespace BaiTapC_
                 val1 = Convert.ToInt32(Console.ReadLine());
                 val2 = Convert.ToInt32(Console.ReadLine());
                 
-            } while (val1<1 || val1>1000 || val2<1 || val2>100);
+            } while (val1 < 1 || val1 > 1000 || val2 < 1 || val2 > 100);
             
-            sum = solveMeFirst(val1,val2);
+            sum = solveMeFirst(val1, val2);
             Console.WriteLine(sum);
         }
     }
