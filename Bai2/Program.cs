@@ -30,7 +30,7 @@ namespace Bai2
             {
                 if(a[i] > b[i]){
                     pointAlice++;
-                }else if(a[i] < b[i]){
+                } else if(a[i] < b[i]){
                     pointBob++;
                 }
             }
