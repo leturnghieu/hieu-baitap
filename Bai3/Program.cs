@@ -12,7 +12,7 @@ namespace Bai3
             System.Console.WriteLine("So phan tu cua mang: ");
             n = Convert.ToInt32(Console.ReadLine());
             long[] a = new long[n];
-            for(int i=0; i<n; i++){
+            for(int i = 0; i < n; i++){
                 a[i] = rd.Next(1, 100000000);
                 System.Console.Write(a[i] + "     ");
                 sum += a[i];
